@@ -1,0 +1,5 @@
+<mail:berkayarikan@stu.edu.tr><password:Z]jcYq-,><name:Berkay Mustafa Arikan>
+<mail:mericutku@stu.edu.tr><password:d\i`Zlkbl><name:Meric Utku>
+<mail:egekaptanoglu@stu.edu.tr><password:XZX^TcgTabZ_h><name:Ege Kaptanoglu>
+<mail:erdemakcan@prof.edu.tr><password:[hZ[cWaYWd><name:Erdem Akcan>
+<mail:enes@stu.edu.tr><password:#!SYUWUYcRQcY^TQ><name:Enes Karakulak>

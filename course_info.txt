@@ -1,0 +1,13 @@
+<coursecode:Cmpe140><coursename:Computer Programming><credit:6><professorname:Erdem Akcan><taname:Meric Utku>
+<studentname:Berkay Mustafa Arikan><grade:AA>
+<endofcourse>
+<coursecode:Cmpe241><coursename:Computer Programming 2><credit:6><professorname:Erdem Akcan><taname:Berkay Mustafa Arikan>
+<endofcourse>
+<coursecode:Cmpe243><coursename:Logic Circuit Design><credit:5><professorname:Erdem Akcan><taname:Meric Utku>
+<studentname:Berkay Mustafa Arikan><grade:CB>
+<endofcourse>
+<coursecode:Cmpe263><coursename:Fundamentals Of Electronic Circuits><credit:5><professorname:Erdem Akcan>
+<studentname:Berkay Mustafa Arikan><grade:BA>
+<endofcourse>
+<coursecode:Hst101><coursename:Modern History Of Turkey><credit:2><professorname:Erdem Akcan>
+<endofcourse>
